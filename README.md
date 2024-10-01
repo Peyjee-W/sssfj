@@ -20,7 +20,7 @@
 
 1. **克隆项目到本地**：
     ```bash
-    git clone https://github.com/yourusername/sssfj-video-player.git
+    git clone https://github.com/Peyjee-W/sssfj.git
     ```
 2. **安装依赖**：
     别担心！我们只需要用到两个库，轻松搞定：
@@ -30,7 +30,7 @@
 3. **运行播放器**：
     现在，启动视频播放器，享受畅快的播放体验：
     ```bash
-    python player.py
+    python sssfj.py
     ```
 
 ## 💡 使用说明
