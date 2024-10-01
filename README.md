@@ -36,7 +36,7 @@
 ## 🛠 功能展示
 来看看我们精心制作的视频界面吧～ 🖼️
 
-![播放界面]([https://example.com/your-gif-or-image](https://kk.clock8863.com/d/one/%E5%9B%BE%E5%BA%8A/blog/sssfj.png))
+![播放器界面](https://kk.clock8863.com/d/one/%E5%9B%BE%E5%BA%8A/blog/sssfj.png)
 
 ## 🤔 未来计划
 这个项目已经很强大啦，但未来我们还会继续优化：
