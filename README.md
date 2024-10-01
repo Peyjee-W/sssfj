@@ -1,4 +1,4 @@
-# 🎥 抖音少帅上飞机 🚀
+# 🎥 抖音少帅下飞机 🚀
 
 [![GitHub license](https://img.shields.io/github/license/Peyjee-W/sssfj)](https://github.com/Peyjee-W/sssfj/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/Peyjee-W/sssfj)](https://github.com/Peyjee-W/sssfj/stargazers)
