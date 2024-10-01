@@ -1,5 +1,10 @@
 # 🎥 抖音少帅上飞机 🚀
 
+[![GitHub license](https://img.shields.io/github/license/Peyjee-W/sssfj)](https://github.com/Peyjee-W/sssfj/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/Peyjee-W/sssfj)](https://github.com/Peyjee-W/sssfj/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Peyjee-W/sssfj)](https://github.com/Peyjee-W/sssfj/network)
+[![GitHub issues](https://img.shields.io/github/issues/Peyjee-W/sssfj)](https://github.com/Peyjee-W/sssfj/issues)
+
 欢迎来到 **sssfj 视频轮廓检测播放器** 项目！🎉
 
 不仅可以 **播放视频**，还能 **查看视频的边缘轮廓**，而且我们还贴心地提供了 **播放速度调节** 功能⚡
